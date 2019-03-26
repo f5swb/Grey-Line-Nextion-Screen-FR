@@ -9,6 +9,9 @@ https://dx.qsl.net/propagation/greyline.html
 
 Ce dont vous avez besoin : 
 - un écran NEXTION (modèle NX3224K024_11 ou NX4832K035_11) ; 
+
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/nextion%20screen.JPG title = "Nextion screen">
+
 - une cardSd  pour charger le fichier TFT dans l'écran screen ; 
 - une pile afin d'alimenter l'horloge interne de l'écran ;
 - une source d'alimentation pour l'écran.

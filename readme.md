@@ -56,6 +56,7 @@ Ou alors d'aller sur la page des réglages :
 <img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/page%20r%C3%A9glages.JPG title = "page réglages">
 
 Sur cette page vous pourrez régler au premier démarrage de l'écran : la date, l'année , l'heure (le type 12/24) ainsi que la luminosité de l'écran. Toutes ces valeurs seront rechargées au prochain démarrage après un appui sur la touche "save"...
+Vous serez alors rédirigé sur la page menu.
 
 
 Si vous avez des questions n'hésitez pas :) 

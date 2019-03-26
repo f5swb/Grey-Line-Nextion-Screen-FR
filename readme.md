@@ -58,6 +58,7 @@ Ou alors d'aller sur la page des réglages :
 Sur cette page vous pourrez régler au premier démarrage de l'écran : la date, l'année , l'heure (le type 12/24) ainsi que la luminosité de l'écran. Toutes ces valeurs seront rechargées au prochain démarrage après un appui sur la touche "save"...
 Vous serez alors rédirigé sur la page menu.
 
+La version pour le 3.5" est en préparation.
 
 Si vous avez des questions n'hésitez pas :) 
 73's qro.

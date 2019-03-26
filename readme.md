@@ -1,24 +1,27 @@
  World_Grey_Line_Map_Nextion_Screen_GB
-A (WGLMNS) World grey line MAP with a stand alone Nextion screen (without any computer) refresh every 5 minutes
+Une (WGLMNS) carte du monde avec la lignes grise avec un écran NEXTION (en mode RTC + pile). 
 
 
 <img src = "https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture%20boot.JPG" title = "Nextion greyline boot">
 
 
-What you need :
-- one NEXTION screen ;
-- one sdcard to load the TFT file into the screen. 
+Ce dont vous avez besoin : 
+- un écran NEXTION (modèle ;
+- une cardSd  pour charger le fichier TFT dans l'écran screen ; 
+- une pile afin d'alimenter l'horloge interne de l'écran.
+- une source d'alimentation pour l'écran.
 
-How to proceed :
-- load the TFT file according to you screen ;
-- put the sdcard into the screen ;
-- connect the screen with a 5 volt power suplly, then the screen switch on, it will load the TFT file into the screen ;
-(the sd card must have only one TFT file on it otherwise the screen will tell you that it's not possible to load it)
-- after the download into the screen (about 5 mn for a 20 mega file) just disconnect the power suplly
-- output the sdcard
-- reconnect the power suplly ! 
+Comment procéder :
+- télécharger le fichier TFT en fonction de votre écran ;
+- copier le fichier sur la carte Sd ;
+- insérer la carte dans l'écran ;
+- connecter la source d'alimentation, alors l'écran va s'allumer et le processus de chargement va s'initialiser ; 
+(Sur la carte il doit y avoir uniquement qu'un seul fichier TFT, sinon l'écran vous informera qu'il y a plusieurs fichiers et qu'il n'est pas possible d'éffectuer l'opération de mise à jour) ; 
+- après le chargement du fichier dans l'écran (compter à peu près 5 mn pour 20 mega) déconnecter simplement l'alimentation ; 
+- retirer la carte Sd 
+- alimenter de nouveau l'écran ! 
 
-Now you are ready to run :)
+Vous êtes maintenant prêt :)
 
 
 

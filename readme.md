@@ -12,7 +12,7 @@ Ce dont vous avez besoin :
 
 <img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/nextion%20screen.JPG title = "Nextion screen">
 
-- une cardSd  pour charger le fichier TFT dans l'écran screen ; 
+- une cardSd  pour charger le fichier TFT dans l'écran ; 
 
 <img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/sd%20card.JPG title = "sd card">
 

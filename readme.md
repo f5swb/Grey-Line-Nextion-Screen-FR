@@ -4,7 +4,7 @@ Une (WGLMNS) carte du monde avec la ligne grise avec un écran NEXTION (en mode 
 
 https://dx.qsl.net/propagation/greyline.html
 
-<img src = "https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture%20boot.JPG" title = "Nextion greyline boot">
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/BOOT%2024.JPG title = "Nextion greyline boot">
 
 
 Ce dont vous avez besoin : 

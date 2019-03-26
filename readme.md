@@ -45,7 +45,7 @@ Une fois le système initialisé, vous arrivez sur la première page :
 
 Il suffit de toucher l'écran pour être automatiquement dirigé sur l'écran du menu :
 
-<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/menu.JPG title = "page 1">
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/page%20menu.JPG = "page 1">
 
 S'offre alors à vous le choix soit d'afficher la carte du monde avec la greyline, 
 

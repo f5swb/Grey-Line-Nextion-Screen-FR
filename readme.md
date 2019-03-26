@@ -1,12 +1,13 @@
- World_Grey_Line_Map_Nextion_Screen_GB
-Une (WGLMNS) carte du monde avec la lignes grise avec un écran NEXTION (en mode RTC + pile). 
+ World_Grey_Line_Map_Nextion_Screen_FR
+Une (WGLMNS) carte du monde avec la ligne grise avec un écran NEXTION (en mode RTC + pile). 
 
+https://dx.qsl.net/propagation/greyline.html
 
 <img src = "https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture%20boot.JPG" title = "Nextion greyline boot">
 
 
 Ce dont vous avez besoin : 
-- un écran NEXTION (modèle ;
+- un écran NEXTION (modèle NX3224K024_11 ou NX4832K035_11) ; 
 - une cardSd  pour charger le fichier TFT dans l'écran screen ; 
 - une pile afin d'alimenter l'horloge interne de l'écran.
 - une source d'alimentation pour l'écran.

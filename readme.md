@@ -39,4 +39,25 @@ Comment procéder :
 
 Vous êtes maintenant prêt :)
 
+Une fois le système initialisé, vous arrivez sur la première page :
+
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/page%201.JPG "page 1">
+
+Il suffit de toucher l'écran pour être automatiquement dirigé sur l'écran du menu :
+
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/menu.JPG "page 1">
+
+S'offre alors à vous le choix soit d'afficher la carte du monde avec la greyline, 
+
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/page%20greyline.JPG "page greyline">
+
+Ou alors d'aller sur la page des réglages :
+
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/system%20control.JPG "page system">
+
+Sur cette page vous pourrez régler au premier démarrage de l'écran : la date, l'année , l'heure (le type 12/24) ainsi que la luminosité de l'écran. Toutes ces valeurs seront rechargées au prochain démarrage après un appui sur la touche "save"...
+
+
+
+
 <img src = "https://github.com/f5swb/greyline-Nextion-screen/blob/master/map.JPG" title = "Nextion grey line map">

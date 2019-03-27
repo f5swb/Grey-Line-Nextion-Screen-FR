@@ -8,7 +8,7 @@ https://dx.qsl.net/propagation/greyline.html
 
 
 Ce dont vous avez besoin : 
-- un écran NEXTION (modèle NX3224K024_11 ou NX4832K035_11) : 
+- un écran NEXTION (modèle NX3224K024_11,NX3224K028_11 ou NX4832K035_11) : 
 
 <img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/nextion%20screen.JPG title = "Nextion screen">
 

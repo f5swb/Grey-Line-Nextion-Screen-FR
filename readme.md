@@ -4,6 +4,15 @@ Une (WGLMNS) carte du monde avec la ligne grise avec un écran NEXTION (en mode 
 
 https://dx.qsl.net/propagation/greyline.html
 
+Mise à jour en version 1.2 pour l'écran 3.5" :
+
+
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/BOOT%2024.JPG title = "Nextion greyline boot">
+
+
+
+
+
 <img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/BOOT%2024.JPG title = "Nextion greyline boot">
 
 

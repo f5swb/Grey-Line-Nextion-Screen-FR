@@ -7,9 +7,10 @@ https://dx.qsl.net/propagation/greyline.html
 Mise à jour en version 1.2 pour l'écran 3.5" :
 
 
-<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/BOOT%2024.JPG title = "Nextion greyline boot">
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture.JPG title = "Nextion clock world">
 
-
+Ajout d'une carte du monde qui affiche en temps réel l'heure dans le monde.
+(vous devez régler l'heure de l'écran en heure france été, pour le moment, je travaille sur la version GMT).
 
 
 

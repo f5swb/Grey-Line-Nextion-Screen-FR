@@ -4,7 +4,8 @@ Une (WGLMNS) carte du monde avec la ligne grise avec un écran NEXTION (en mode 
 
 https://dx.qsl.net/propagation/greyline.html
 
-Mise à jour en version 1.2 pour l'écran 3.5" :
+Mise à jour en version 1.3 pour l'écran 3.5" avec la prise en compte de l'heure GMT :
+Après le démarrage, vous devez régler l'heure de l'écran sur l'heure GMT "London".
 
 
 <img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture.JPG title = "Nextion clock world">
@@ -68,7 +69,7 @@ Ou alors d'aller sur la page des réglages :
 Sur cette page vous pourrez régler au premier démarrage de l'écran : la date, l'année , l'heure (le type 12/24) ainsi que la luminosité de l'écran. Toutes ces valeurs seront rechargées au prochain démarrage après un appui sur la touche "save"...
 Vous serez alors rédirigé sur la page menu.
 
-La version pour le 3.5" est en préparation.
+
 
 Si vous avez des questions n'hésitez pas :) 
 73's qro.

@@ -8,7 +8,7 @@ Mise à jour en version 1.3 pour l'écran 3.5" avec la prise en compte de l'heur
 Après le démarrage, vous devez régler l'heure de l'écran sur l'heure GMT "London".
 
 
-<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture.JPG title = "Nextion clock world">
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture%20gb.JPG title = "Nextion clock world">
 
 Ajout d'une carte du monde qui affiche en temps réel l'heure dans le monde.
 (vous devez régler l'heure de l'écran en heure france été, pour le moment, je travaille sur la version GMT).
